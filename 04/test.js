@@ -2,7 +2,7 @@ const title = 'jeju';
 const url =
   'https://daum.net/  \
 역슬래시 하나 주면 엔터칠 수 있음' + title;
-const url2 = 'https://daum.net/${title}';
+const url2 = `https://daum.net/${title}` //따옴표가 아니라 어퍼스트로피
 
 console.log(url, url2);
 
