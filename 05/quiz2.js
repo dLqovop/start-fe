@@ -39,3 +39,19 @@ for(var i=0; i<$boards.length; i++){
 
 
 
+/*
+for(var i=0; i<chessboard; i++){
+    if(i%4===0){
+        str+='<span class="'+boardcolor+'"></span>';
+    }else{
+        if(boardcolor==='black'){
+            boardcolor='white';
+            str+='<span class="'+boardcolor+'"></span>';
+        }else{
+            boardcolor='black';
+            str+='<span class="'+boardcolor+'"></span>';
+        }
+    }
+    $board.innerHTML=str; 
+}
+*/
