@@ -40,7 +40,7 @@ function init(){
 init();
 
 
-
+//문제4
 // $box.addEventListener('mousedown', ()=>{
 //     isDown=true;
 // });
